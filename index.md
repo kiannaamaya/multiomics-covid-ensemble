@@ -15,10 +15,10 @@ This project explores:
 
 ## 🔗 Browse Code on GitHub
 
-- [📝 Data File Prepartion](data_prep/data_files_preparation.py)
-- [📝 VAE Pipeline Notebook](vae_model/results_summary.ipynb)
-- [📝 PCA Pipeline Notebook](pca_model/pca_results.ipynb)
-- [📁 Output](output)
+- [📝 Data File Prepartion](https://github.com/kiannaamaya/multiomics-covid-ensemble/blob/main/data_prep/data_files_preparation.py)
+- [📝 VAE Pipeline Notebook](https://github.com/kiannaamaya/multiomics-covid-ensemble/blob/main/vae_approach/vae_pipeline.ipynb)
+- [📝 PCA Pipeline Notebook](https://github.com/kiannaamaya/multiomics-covid-ensemble/blob/main/pca_approach/pca_pipeline.ipynb)
+- [📁 Output](https://github.com/kiannaamaya/multiomics-covid-ensemble/tree/main/output)
 
 ---
 
