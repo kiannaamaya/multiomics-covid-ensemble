@@ -15,10 +15,10 @@ This project explores:
 
 ## 🔗 Browse Code on GitHub
 
-- [📁 VAE Code](https://github.com/kiannaamaya/multiomics-covid-ensemble/tree/main/vae_model)
-- [📁 PCA Code](https://github.com/kiannaamaya/multiomics-covid-ensemble/tree/main/pca_model)
-- [📁 Data](https://github.com/kiannaamaya/multiomics-covid-ensemble/tree/main/data)
-- [📁 Output](https://github.com/kiannaamaya/multiomics-covid-ensemble/tree/main/output)
+- [📝 Data File Prepartion](data_prep/data_files_preparation.py)
+- [📝 VAE Pipeline Notebook](vae_model/results_summary.ipynb)
+- [📝 PCA Pipeline Notebook](pca_model/pca_results.ipynb)
+- [📁 Output](output)
 
 ---
 
